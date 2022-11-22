@@ -1,2 +1,2 @@
 # USSR
-#Universal School Study Resources
+Universal School Study Resources
