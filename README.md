@@ -5,7 +5,7 @@ Imagine writing a description :skull: :skull:
 
 ## Authors
 
-- [@Harren06](https://github.com/Harren06)https://github.com/GardagensBrod
+- [@Harren06](https://github.com/Harren06)
 - [@GårdagensBröd ](https://github.com/GardagensBrod)
 
 ## Used By
